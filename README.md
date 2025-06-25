@@ -9,6 +9,7 @@ Here’s a quick walk-through of what you’ll find in the notebook:
 
 ### 📥 1. Data Loading
 data source: https://www.kaggle.com/datasets/adarsh0806/influencer-merchandise-sales/data
+
 We start by importing the usual suspects – `pandas`, `matplotlib`, `seaborn` – and loading the merch sales data. Basic cleaning happens here too: fixing column names, checking for nulls, and making sure the data types make sense.
 
 ### 🕵️‍♀️ 2. Exploratory Analysis
