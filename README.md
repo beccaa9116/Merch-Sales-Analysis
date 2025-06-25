@@ -16,8 +16,7 @@ We start by importing the usual suspects – `pandas`, `matplotlib`, `seaborn` �
 Next up, we get curious. The code looks into:
 - Total sales across different months 📆
 - Best-selling products 🥇
-- Which cities love our merch the most 🏙️
-- Time of day people are shopping ⏰
+- Which cities love our merch the most 🏙
 
 ### 🧠 3. Insights Galore
 We generate questions like:
